@@ -2,7 +2,7 @@
 ![8](https://user-images.githubusercontent.com/80622132/161161038-5d558edc-1ccd-4973-b255-842371b7e890.JPG)
 
 
-# Self Correction for Human Parsing
+## Self Correction for Human Parsing
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
